@@ -1,6 +1,6 @@
 # LLM-Suppression-SilentBench
 
-## What Models Don't Say: A Systematic Study of Output Suppression in Large Language Models
+## Beyond the Chosen Token: Analyzing Output Suppression in Large Language Models
 
 ### Overview
 SilentBench is a benchmark for studying output suppression patterns in Large Language Models.
