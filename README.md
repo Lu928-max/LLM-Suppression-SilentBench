@@ -1,5 +1,3 @@
-readme_full = """# LLM-Suppression-SilentBench
-
 ## Beyond the Chosen Token: Analyzing Output Suppression in Large Language Models
 
 ## Overview
@@ -82,8 +80,4 @@ cd analysis && python error_predictor.py
 To be added upon publication.
 
 ## License
-MIT License."""
-
-with open("/drive/MyDrive/NeurIPS/README.md", "w") as f:
-    f.write(readme_full)
-print("Saved README.md")
+MIT License
